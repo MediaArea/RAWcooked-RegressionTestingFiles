@@ -6,5 +6,8 @@ They have no specific license.
 From https://samples.ffmpeg.org/image-samples/dpx_samples.zip
 "they will hopefully be useful for other developers, too"
 
+### \[8-12\]bit\[_a\].dpx:
+From https://trac.ffmpeg.org/ticket/5639
+
 ### Others:
 Provided by sponsors with explicit authorization to make them public for testing purpose.
