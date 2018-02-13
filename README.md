@@ -9,5 +9,9 @@ From https://samples.ffmpeg.org/image-samples/dpx_samples.zip
 ### \[8-12\]bit\[_a\].dpx:
 From https://trac.ffmpeg.org/ticket/5639
 
+### converted_image_gets_skewed.dpx
+
+From https://samples.ffmpeg.org/ffmpeg-bugs/trac/ticket2392/converted_image_gets_skewed.dpx
+
 ### Others:
 Provided by sponsors with explicit authorization to make them public for testing purpose.
