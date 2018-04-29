@@ -1,0 +1,10 @@
+1
+00:00:00,000 --> 00:00:00,043 <w 100,100,600,4/>
+Welcome
+to
+SubtitleCreator
+
+2
+00:00:00,043 --> 00:00:00,087
+These examples will give you an overview of its features.
+(film_reel_02_ss_tit_deu)
