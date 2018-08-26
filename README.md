@@ -13,5 +13,8 @@ From https://trac.ffmpeg.org/ticket/5639
 
 From https://samples.ffmpeg.org/ffmpeg-bugs/trac/ticket2392/converted_image_gets_skewed.dpx
 
+### Others WAV/AIFF:
+Home made.
+
 ### Others:
 Provided by sponsors with explicit authorization to make them public for testing purpose.
