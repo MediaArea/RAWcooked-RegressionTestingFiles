@@ -16,5 +16,9 @@ From https://samples.ffmpeg.org/ffmpeg-bugs/trac/ticket2392/converted_image_gets
 ### Others WAV/AIFF:
 Home made.
 
+### flower-*.tif 
+Old files with no high value content and without explicit copyright.  
+Expecting that it is considered "fair use".
+
 ### Others:
 Provided by sponsors with explicit authorization to make them public for testing purpose.
