@@ -20,5 +20,8 @@ Home made.
 Old files with no high value content and without explicit copyright.  
 Expecting that it is considered "fair use".
 
+### AllHalfValues.exr
+From OpenEXR repo
+
 ### Others:
 Provided by sponsors with explicit authorization to make them public for testing purpose.
